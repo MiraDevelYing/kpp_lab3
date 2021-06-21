@@ -1,4 +1,4 @@
-# kate
+# Vadim
 
 ## Project setup
 ```
